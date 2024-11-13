@@ -35,9 +35,9 @@ public class Welintonsaccon2020 {
                 do{
                     System.out.println("calcular la puntuacion");
                     System.out.println("1.calcular el total de las puntusciones de las semana");
-                    System.out.println("calcular el promendio de las puntuaciones ");
-                    System.out.println("");
-                    System.out.println("");
+                    System.out.println("2.calcular el promendio de las puntuacionesy mostrar dias por ensima ");
+                    System.out.println("3.mostrar las puntuacion ");
+                    System.out.println("4.");
                 }
      
         
@@ -45,5 +45,4 @@ public class Welintonsaccon2020 {
     }
         
     }
-
 S
